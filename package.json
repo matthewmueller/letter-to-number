@@ -1,6 +1,6 @@
 {
   "name": "letter-to-number",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Simple utility to convert a letter to a number",
   "keywords": [],
   "author": "Matthew Mueller <mattmuelle@gmail.com>",
