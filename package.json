@@ -1,0 +1,16 @@
+{
+  "name": "letter-to-number",
+  "version": "1.0.1",
+  "description": "Simple utility to convert a letter to a number",
+  "keywords": [],
+  "author": "Matthew Mueller <mattmuelle@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MatthewMueller/letter-to-number.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "main": "index"
+}
